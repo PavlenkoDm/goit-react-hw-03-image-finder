@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.1b2c402b.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.c5d4f4c9.js",
+    "index.html": "/goit-react-hw-03-image-finder/index.html",
+    "static/media/alt-lens-svgrepo-com.svg": "/goit-react-hw-03-image-finder/static/media/alt-lens-svgrepo-com.229388ef66dfaa3262a4.svg",
+    "main.1b2c402b.css.map": "/goit-react-hw-03-image-finder/static/css/main.1b2c402b.css.map",
+    "main.c5d4f4c9.js.map": "/goit-react-hw-03-image-finder/static/js/main.c5d4f4c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b2c402b.css",
+    "static/js/main.c5d4f4c9.js"
+  ]
+}
